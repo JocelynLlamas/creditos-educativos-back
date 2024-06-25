@@ -55,5 +55,5 @@ Puedes acceder a la consola de H2 para ver la base de datos en memoria navegando
 - Contraseña: 
 
 ## 🚀 Algunas pruebas con Postman
-![Captura de pantalla](https://github.com/JocelynLlamas/creditos-educativos-front/blob/main/src/assets/img/home.png)
-![Captura de pantalla](https://github.com/JocelynLlamas/creditos-educativos-front/blob/main/src/assets/img/home.png)
+![Captura de pantalla](https://github.com/JocelynLlamas/creditos-educativos-back/blob/main/src/main/resources/static/imgs/credits.png)
+![Captura de pantalla](https://github.com/JocelynLlamas/creditos-educativos-back/blob/main/src/main/resources/static/imgs/users.png)
