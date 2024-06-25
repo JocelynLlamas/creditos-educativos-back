@@ -22,7 +22,7 @@ public class CreditRequest {
         this.id = id;
     }
    
-    public Long getIUserId() {
+    public Long getUserId() {
         return userId;
     }
     
